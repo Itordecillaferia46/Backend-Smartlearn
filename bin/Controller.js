@@ -1070,6 +1070,7 @@ class Controller {
 
                                 res.send({ status: 200, nU: newMicroClase });
             });*/
+        res.send({ status: 200 });
     }
 
 
